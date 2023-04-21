@@ -1,1 +1,1 @@
-# jiminbae01.gitub.io
+# jiminbae01.github.io
